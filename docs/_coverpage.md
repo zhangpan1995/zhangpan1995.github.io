@@ -2,9 +2,8 @@
 
 ![logo](mf.png)
 
-# docsify <small>3.5</small>
+# 张攀的前端在线笔记 <small></small>
 
-> 霍格沃茨魔法学校----前端学习分院
 
 <!-- - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
