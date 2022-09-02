@@ -23,4 +23,8 @@
     * [day07](Web-Api/day07笔记/webAPIs-day07笔记.md)
     * [day08](Web-Api/day08笔记/webAPIs-day08笔记.md)
     * [webAPIs阶段重点问题](Web-Api/webAPIs阶段重点问题/webAPIs阶段重点问题.md)
-  * JS高级  
+  * JS高级
+    * [day01](js-高级/day01笔记/js进阶-day01笔记.md)
+    * [day02](js-高级/day02笔记/js进阶-day02笔记.md)
+    * [day03](js-高级/day03笔记/js进阶-day03笔记.md)
+    * [day04](js-高级/day04笔记/js进阶-day04笔记.md)
